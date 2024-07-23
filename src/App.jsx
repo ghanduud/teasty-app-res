@@ -1,12 +1,5 @@
-
-
 function App() {
-
-  return (
-    <>
-      <h1>Hello World !</h1>
-    </>
-  )
+	return <>Hello World ! Ghandy</>;
 }
 
-export default App
+export default App;
